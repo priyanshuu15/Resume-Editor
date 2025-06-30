@@ -1,0 +1,46 @@
+.container {
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.heading {
+  margin-bottom: 30px;
+}
+
+.field-container {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  padding: 8px;
+  font-size: 1rem;
+  margin-bottom: 8px;
+  box-sizing: border-box;
+}
+
+.button {
+    margin-left: 10px;
+  margin-right: 10px;
+  padding: 8px 14px;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.buttons-group {
+  margin-top: 30px;
+}
+.upload {
+    margin-top: 10px;
+}
+
+
+
